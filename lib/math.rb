@@ -18,13 +18,11 @@ end
 
 def multiplication(num1, num2)
 ans=num1*num2
-puts ans
 ans
 end
 
 def modulo(num1, num2)
 ans=num1%num2
-puts ans
 ans
 end
 
