@@ -24,5 +24,6 @@ puts ans
 end
 
 def square_root(num)
-ans=
+ans=Math.sqrt(num)
+puts ans
 end
