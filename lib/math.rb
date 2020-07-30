@@ -30,6 +30,5 @@ end
 
 def square_root(num)
 ans=Math.sqrt(num)
-puts ans
 ans
 end
